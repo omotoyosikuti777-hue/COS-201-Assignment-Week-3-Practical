@@ -1,44 +1,38 @@
+# COS 201 — Computer Programming I
 
-# COS 201 Java Programming Assignment
+## Student Information
+- **Name:** Kuti Elizabeth Omotoyosi
+- **Matriculation Number:** 25/17866
+- **Department:** Cyber Security
+- **Level:** 200 Level
+- **Course:** COS 201
+- **Week:** 2
 
-## Description
-This repository contains three Java programs developed for the COS 201 assignment.
+## Practical Title
+Development Environment and First Java Program
 
-## Programs
+## Objective
+To configure the Java development environment, write a simple Java program, compile it, execute it and submit the source code through GitHub.
 
-1. **SimpleCalculator.java**
-   - Performs addition, subtraction, multiplication and division.
+## Tools Used
+- Java Development Kit (JDK)
+- Visual Studio Code
+- Git
+- GitHub Desktop
+- GitHub
 
-2. **AverageCalculator.java**
-   - Calculates the average of three numbers.
-
-3. **ItemCost.java**
-   - Calculates the total cost of items using their price and quantity.
-
-## Requirements
-- Java Development Kit (JDK 8 or later).
-- A Java-compatible IDE or terminal.
+## Files
+- `week02/Helloworld.java`: Java source code for the practical.
 
 ## How to Run
+1. Open a terminal in the project directory.
+2. Compile using:
+   `javac week02/Helloworld.java`
+3. Run using:
+   `java week02.Helloworld`
 
-Compile each program:
+## Learning Outcome
+I practised creating, compiling and running a Java program and submitting source code through GitHub.
 
-```bash
-javac SimpleCalculator.java
-javac AverageCalculator.java
-javac ItemCost.java
-```
-
-Run each program:
-
-```bash
-java SimpleCalculator
-java AverageCalculator
-java ItemCost
-```
-
-## Author
-Kuti Elizabeth omotoyosi 
-Cyber security 
-200lvl 
-25/17866
+## Submission
+[Submit your practical here](https://docs.google.com/forms/d/e/1FAIpQLScfFSTTZzdgAZ9qPEFp8gNJpHCu0cYudvHJizNCbKOACAb1A/viewform?usp=header)
